@@ -1,4 +1,6 @@
 # Proteins
+
+[![Join the chat at https://gitter.im/thepropterhoc/Proteins](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thepropterhoc/Proteins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 _"But what protein structure **defines** a mouse?"_
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/60/Myoglobin.png)
